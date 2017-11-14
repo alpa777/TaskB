@@ -1,0 +1,291 @@
+{
+  "A": {
+    "items": [
+      {
+        "id": "a1",
+        "text": "Basic",
+        "icon": "a1",
+        "B": {
+          "title": "Android Basic",
+          "items": [
+            {
+              "id": "b1",
+              "text": "Home",
+              "icon": "b1",
+              "other": "Topic 1",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b2",
+              "text": "Overview",
+              "icon": "b2",
+              "other": "Topic 2",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b3",
+              "text": "Environment setup",
+              "icon": "b3",
+              "other": "Topic 3",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b4",
+              "text": "Architecture",
+              "icon": "b4",
+              "other": "Topic 4",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b5",
+              "text": "Application Component",
+              "icon": "b5",
+              "other": "Topic 5",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b6",
+              "text": "Demo",
+              "icon": "b6",
+              "other": "Topic 6",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b7",
+              "text": "Resource",
+              "icon": "b7",
+              "other": "Topic 7",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b8",
+              "text": "Activity",
+              "icon": "b8",
+              "other": "Topic 8",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b9",
+              "text": "Service",
+              "icon": "b9",
+              "other": "Topic 9",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b10",
+              "text": "Boradcast Receiver",
+              "icon": "b10",
+              "other": "Topic 10",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b11",
+              "text": "Content Provider",
+              "icon": "b11",
+              "other": "Topic 11",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b12",
+              "text": "Fragments",
+              "icon": "b12",
+              "other": "Topic 12",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            },
+            {
+              "id": "b13",
+              "text": "Intents",
+              "icon": "b13",
+              "other": "Topic 13",
+              "C": {
+                "title": "",
+                "path": "",
+                "icon": ""
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "a2",
+        "text": "Advance",
+        "icon": "a2",
+        "B": {
+          "title": "Android Advance",
+          "items": [
+            {
+              "id": "b1",
+              "text": "Drag and Drop",
+              "icon": "b1"
+            },
+            {
+              "id": "b2",
+              "text": "Notifications",
+              "icon": "b2"
+            },
+            {
+              "id": "b3",
+              "text": "Based Service",
+              "icon": "b3"
+            },
+            {
+              "id": "b4",
+              "text": "Sending email",
+              "icon": "b4"
+            },
+            {
+              "id": "b5",
+              "text": "Sending SMS",
+              "icon": "b5"
+            },
+            {
+              "id": "b6",
+              "text": "",
+              "icon": "Phone Calls"
+            },
+            {
+              "id": "b7",
+              "text": "Publishing Andrdoid App",
+              "icon": "b7"
+            },
+            {
+              "id": "b8",
+              "text": "Alert Dialogs",
+              "icon": "b8"
+            },
+            {
+              "id": "b9",
+              "text": "Animations",
+              "icon": "b9"
+            },
+            {
+              "id": "b10",
+              "text": "Audio Capture",
+              "icon": "b10"
+            },
+            {
+              "id": "b11",
+              "text": "Audio Manager",
+              "icon": "b11"
+            },
+            {
+              "id": "b12",
+              "text": "Bluetooth",
+              "icon": "b12"
+            },
+            {
+              "id": "b13",
+              "text": "Camera",
+              "icon": "b13"
+            },
+            {
+              "id": "b14",
+              "text": "Custom Fonts",
+              "icon": "b14"
+            },
+            {
+              "id": "b15",
+              "text": "Shared Preference",
+              "icon": "b15"
+            },
+            {
+              "id": "b16",
+              "text": "Sqlite Database",
+              "icon": "b16"
+            },
+            {
+              "id": "b17",
+              "text": "Support Library",
+              "icon": "b17"
+            },
+            {
+              "id": "b18",
+              "text": "Wifi",
+              "icon": "b18"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a3",
+        "text": "Notes",
+        "icon": "a3",
+        "B": {
+          "title": "Android Notes"
+        }
+      },
+      {
+        "id": "a4",
+        "text": "Latest",
+        "icon": "a4",
+        "B": {
+          "title": ""
+        }
+      },
+      {
+        "id": "a5",
+        "text": "Questions",
+        "icon": "a5",
+        "B": {
+          "title": ""
+        }
+      },
+      {
+        "id": "a6",
+        "text": "Review",
+        "icon": "a6",
+        "B": {
+          "title": ""
+        }
+      }
+    ]
+  }
+}

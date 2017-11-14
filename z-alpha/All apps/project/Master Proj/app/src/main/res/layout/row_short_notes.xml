@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <com.all.learning.custom_view.text.CTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:gravity="center"
+            android:padding="16dp"
+            android:text="Test"
+            android:textColor="@color/white" />
+
+        <com.all.learning.custom_view.text.CTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:padding="16dp"
+            android:text="No records found!"
+            android:textColor="@color/red" />
+
+        <include
+            android:id="@+id/swipe"
+            layout="@layout/layout_swipe_up" />
+    </RelativeLayout>
+
+</layout>

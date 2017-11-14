@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Android</string>
+    <string name="banner_ad_unit_id">@string/banner_ad_unit_id_org</string>
+    <string name="banner_ad_unit_id_org">ca-app-pub-3373973442087367/9614269136</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

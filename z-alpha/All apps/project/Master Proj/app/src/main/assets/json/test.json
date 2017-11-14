@@ -1,0 +1,87 @@
+{
+  "a1": {
+    "b": {
+      "title": "Android advance",
+      "itmes": [
+        {
+          "id": "",
+          "text": "Home",
+          "icon": "a1_b1",
+          "other": "Topic 1"
+        },
+        {
+          "id": "",
+          "text": "Overview",
+          "icon": "a1_b2",
+          "other": "Topic 2"
+        },
+        {
+          "id": "",
+          "text": "Environment setup",
+          "icon": "a1_b3",
+          "other": "Topic 3"
+        },
+        {
+          "id": "",
+          "text": "Architecture",
+          "icon": "a1_b4",
+          "other": "Topic 4"
+        },
+        {
+          "id": "",
+          "text": "Application Component",
+          "icon": "a1_b5",
+          "other": "Topic 5"
+        },
+        {
+          "id": "",
+          "text": "Demo",
+          "icon": "a1_b6",
+          "other": "Topic 6"
+        },
+        {
+          "id": "",
+          "text": "Resource",
+          "icon": "a1_b7",
+          "other": "Topic 7"
+        },
+        {
+          "id": "",
+          "text": "Activity",
+          "icon": "a1_b8",
+          "other": "Topic 8"
+        },
+        {
+          "id": "",
+          "text": "Service",
+          "icon": "a1_b9",
+          "other": "Topic 9"
+        },
+        {
+          "id": "",
+          "text": "Boradcast Receiver",
+          "icon": "a1_b10",
+          "other": "Topic 10"
+        },
+        {
+          "id": "",
+          "text": "Content Provider",
+          "icon": "a1_b11",
+          "other": "Topic 11"
+        },
+        {
+          "id": "",
+          "text": "Fragments",
+          "icon": "a1_b12",
+          "other": "Topic 12"
+        },
+        {
+          "id": "",
+          "text": "Intents",
+          "icon": "a1_b13",
+          "other": "Topic 13"
+        }
+      ]
+    }
+  }
+}
